@@ -12,4 +12,4 @@ Feel free to click with no pressure
 - [Website](https://www.bananadroid.com)
 - [Telegram Announcements Channel](https://t.me/bananadroidchannel)
 - [Telegram Discussion Group](https://t.me/bananadroid)
-- [Maintainership](bit.ly/bananadroidmaintainer)
+- [Maintainership](https://bit.ly/bananadroidmaintainer)
